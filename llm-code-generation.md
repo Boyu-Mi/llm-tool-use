@@ -100,6 +100,10 @@
 
     *Noah Shinn, Federico Cassano, Beck Labash, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao*  [[pdf](https://arxiv.org/abs/2303.11366)], 2023.3.20
 
+1. **Improving Code Generation by Training with Natural Language Feedback** Arxiv
+
+    *Angelica Chen, Jérémy Scheurer, Tomasz Korbak, Jon Ander Campos, Jun Shern Chan, Samuel R. Bowman, Kyunghyun Cho, Ethan Perez*  [[pdf](https://arxiv.org/abs/2303.16749)], 2023.3.28
+
 1. **Teaching Large Language Models to Self-Debug.** Arxiv
 
     *Xinyun Chen, Maxwell Lin, Nathanael Schärli, Denny Zhou*  [[pdf](https://arxiv.org/abs/2304.05128)], 2023.4.11
