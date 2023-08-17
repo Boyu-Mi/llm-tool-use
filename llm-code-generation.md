@@ -216,3 +216,6 @@
 
     *Michele Tufano, Shubham Chandel, Anisha Agarwal, Neel Sundaresan, Colin Clement*  [[pdf](https://arxiv.org/abs/2307.13383)], 2023.7.25
 
+54. **OctoPack: Instruction Tuning Code Large Language Models.** Arxiv
+
+   *Niklas Muennighoff, Qian Liu, Armel Zebaze, Qinkai Zheng, Binyuan Hui, Terry Yue Zhuo, Swayam Singh, Xiangru Tang, Leandro von Werra, Shayne Longpre* [[pdf](https://arxiv.org/abs/2308.07124)], 2023.8.14
